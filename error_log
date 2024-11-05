@@ -1,0 +1,12 @@
+[05-Nov-2024 11:31:59 UTC] PHP Parse error:  Unclosed '{' on line 68 in /home/c6hns2lx88da/public_html/aklife.in/nm/movieinfo.php on line 70
+[05-Nov-2024 11:32:07 UTC] PHP Parse error:  Unclosed '{' on line 68 in /home/c6hns2lx88da/public_html/aklife.in/nm/movieinfo.php on line 70
+[05-Nov-2024 11:40:26 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/c6hns2lx88da/public_html/aklife.in/nm/sample.php:44
+Stack trace:
+#0 /home/c6hns2lx88da/public_html/aklife.in/nm/sample.php(44): implode()
+#1 {main}
+  thrown in /home/c6hns2lx88da/public_html/aklife.in/nm/sample.php on line 44
+[05-Nov-2024 11:45:07 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/c6hns2lx88da/public_html/aklife.in/nm/sample.php:44
+Stack trace:
+#0 /home/c6hns2lx88da/public_html/aklife.in/nm/sample.php(44): implode()
+#1 {main}
+  thrown in /home/c6hns2lx88da/public_html/aklife.in/nm/sample.php on line 44
